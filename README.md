@@ -20,4 +20,5 @@ Simple chat application for learning to build TCP/IP socket based applications
 2. Build the project "master/ClientDesktopUI"
 3. Build the installer project "master/ClientDesktopUISetup" (Requires Visual studio installer projects extension to be installed)
 4. Run the setup and install the chat application on all the client computers
-More info: Copyright @bubububuinen. You are not allowed to directly copy, download or modify the software to profit money or any other currency in any way whatsoever, usage for chatting or education is allowed. The software DOES NOT save your messages.
+5. More info: Copyright @bubububuinen. You are not allowed to directly copy, download or modify the software to profit money or any other currency in any way whatsoever, usage for chatting or education is allowed. The software DOES NOT save your messages. We are not responsible for any device damage caused by any of our softwares.
+Please note: The software is in alpha and will bug out ALOT. 
