@@ -7,8 +7,8 @@ Which versions are supported?
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.03.x  | :white_check_mark: |
-| 1.02x   | :x:                |
-| 1.01.x  | :white_check_mark: |
+| 1.02x   | :white_check_mark: |
+| 1.01.x  | :x:                |
 | 1.0x    | :x:                |
 
 ## Reporting a Vulnerability
