@@ -1,6 +1,5 @@
 # Security Policy
-
-## Supported Versions
+:alarm_clock: ## Supported Versions :alarm_clock:
 
 Which versions are supported?
 
@@ -11,6 +10,6 @@ Which versions are supported?
 | 1.01.x  | :x:                |
 | 1.0x    | :x:                |
 
-## Reporting a Vulnerability
+:warning: ## Reporting a Vulnerability :warning:
 
-Report any bug, leak or possible hacking chance to the owner IMMEDIATENELY!
+Report any Bug, Leak or possible Vulnerability to the owner IMMEDIATENELY!
