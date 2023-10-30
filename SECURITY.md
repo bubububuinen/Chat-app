@@ -12,4 +12,4 @@ Which versions are supported?
 
 :warning: ## Reporting a Vulnerability :warning:
 
-Report any Bug, Leak or possible Vulnerability to the owner IMMEDIATENELY!
+Report any Bug, Leak or possible Vulnerability to the owner IMMEDIATENELY! (lying about a bug, leak etc. will result you in getting blocked for future commissions)
