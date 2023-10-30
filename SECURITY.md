@@ -5,9 +5,9 @@ Which versions are supported?
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.03.x  | :white_check_mark: |
-| 1.02x   | :white_check_mark: |
-| 1.01.x  | :x:                |
+| 1.04.x  | :white_check_mark: |
+| 1.03x   | :white_check_mark: |
+| 1.02.x  | :x:                | 
 | 1.0x    | :x:                |
 
 :warning: ## Reporting a Vulnerability :warning:
